@@ -4,10 +4,10 @@ Problem Statement- Skin diseases are on a rise in India and lack of knowledge an
 
 Solution- This project aims to solve this problem by detecting various Skin Diseases using Convolutional Neural Network framework in Machine Learning. I used HAM10000 dataset which is the most extensive dataset available on this topic consisting of 10,000 images.
 
-#Tech Stack
+## Tech Stack
 Machine Learning, Deep Learning, CNN
 
-#Libraries Used
+## Libraries Used
 TensorFlow, PIL, NumPy, Pandas
 
 
