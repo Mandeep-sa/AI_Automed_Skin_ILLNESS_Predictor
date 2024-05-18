@@ -1,0 +1,1 @@
+# AI_Automed_Skin_ILLNESS_Predictor
